@@ -1,0 +1,10 @@
+ Q: Ubiquitous Language nima?
+ A: Domain modelida ishlatiladigan har bir termin - kod, testlash,documentatsiyalas va hkz qismlarda - bir xil
+so'z, bir xil ma'no bilan ishlatilishligi kerak. Bu xuddike kelishuv protokoliga o'xshaydi.
+Example: Agar domen eksperti (masalan, omborchi) "reserve" so'zini ishlatsa, kodda ham aynan Reserve() metodi bo'lishi kerak — Lock(), Hold() yoki Block() emas.
+
+
+Q: Bounded Context nima ?
+A:
+
+Example:
